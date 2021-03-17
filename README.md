@@ -8,7 +8,7 @@ I am an enthusiast for the web development area, I am thirsty to learn several t
 - 💻 Sofware Engineer Student.
 - :rocket: Technologies: JavaScript, Typescript, html, css, ReactJS, MySql, MongoDB and much more.
 
-### Skills :nerd_face:
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
