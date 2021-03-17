@@ -40,10 +40,17 @@ I am an enthusiast for the web development area, I am thirsty to learn several t
     </a>
 </p>
 
-### Statics
+## Statics
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gabrielprod&theme=react)
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprod&layout=compact&hide_border=true&langs_count=10&theme=react)
 
+<p align="center"> 
 
+ ## Total visits :chart_with_upwards_trend: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/gabrielprod/count.svg" />
+ </p>
+
+</p>
 
 
