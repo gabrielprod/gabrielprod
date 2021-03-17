@@ -6,7 +6,7 @@ I am an enthusiast for the web development area, I am thirsty to learn several t
 ### Abstract
 
 - 💻 Sofware Engineer Student.
-- :rocket: Technologies: JavaScript, Typescript, html, css, ReactJS, MySql, MongoDB and much more.
+- :rocket: Technologies: JavaScript, Typescript, HTML, CSS, ReactJS, MySql, MongoDB and much more.
 
 
 
@@ -24,9 +24,26 @@ I am an enthusiast for the web development area, I am thirsty to learn several t
   
 </div>
 
+## Contact :iphone:
+
+<p align="center">
+    <a href="https://github.com/gabrielprod">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/gabrielprod">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:gabrielalemao12@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielalemao12@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/gabriel-rodrigues-aaa352207/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/gabriel-rodrigues-aaa352207/">
+    </a>
+</p>
+
 ### Statics
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gabrielprod&theme=react)
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprod&layout=compact&hide_border=true&langs_count=10)
+
 
 
 
