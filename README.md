@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel Rodrigues <img align="center" alt="snk" height="30" width="40" src="SurveyCorpsEmblem.png">
+# Hi, I'm Gabriel Rodrigues <a href="https://emoji.gg/emoji/SurveyCorpsEmblem"><img src="https://emoji.gg/assets/emoji/SurveyCorpsEmblem.png" width="64px" height="64px" alt="SurveyCorpsEmblem"></a>
 <hr>
 
 I am an enthusiast for the web development area, I am thirsty to learn several things to expand my knowledge even more, I am currently studying Information Systems at the State University of Minas Gerais and I also do other courses abroad.
