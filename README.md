@@ -17,7 +17,8 @@ I am an enthusiast for the web development area, I am thirsty to learn several t
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src=" https://www.flaticon.com/br/icone-gratis/github_733553?term=github&page=1&position=11&page=1&position=11&related_id=733553&origin=tag">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/github_733553?term=github&page=1&position=11&page=1&position=11&related_id=733553&origin=tag">
+  
  
   
 </div>
