@@ -20,7 +20,7 @@ I am an enthusiast for the web development area, I am thirsty to learn several t
   
   <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="git" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="mongo" height="30" width="140"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+  <img align="center" alt="mongo" height="30" width="40"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
   
 </div>
 
