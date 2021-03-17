@@ -4,6 +4,7 @@
 I am an enthusiast for the web development area, I am thirsty to learn several things to expand my knowledge even more, I am currently studying Information Systems at the State University of Minas Gerais and I also do other courses abroad.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gabrielprod&theme=gotham)
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel31&layout=compact&hide_border=true&langs_count=10)
 
 
 
