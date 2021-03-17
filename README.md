@@ -42,7 +42,7 @@ I am an enthusiast for the web development area, I am thirsty to learn several t
 
 ### Statics
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gabrielprod&theme=react)
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprod&layout=compact&hide_border=true&langs_count=10)
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprod&layout=compact&hide_border=true&langs_count=10&theme=react)
 
 
 
